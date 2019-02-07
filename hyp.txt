@@ -1,0 +1,178 @@
+command--1151447748	Call Meenu	Call Minnie	F	P	{'initial': 1, 'weights': [['47', -57.7084], ['57', -40.6519]], 'final': 4} 
+command--1151340354	Call Sanjay	Call Sanjay	T	P	{'initial': 1, 'weights': [['47', -52.9291], ['23', -36.4195]], 'final': 2} 
+command--1151540148	Call Harish	Call Harish	T	P	{'initial': 1, 'weights': [['47', -78.4628], ['44', -106.282]], 'final': 1} 
+command--1149645900	Video Call Rajendra	Video Call Rajendra	T	P	{'initial': 1, 'weights': [['35', -54.3654], ['47', -36.319], ['9', -75.3293]], 'final': 2} 
+command-247929334	Call Subodh	Call Subodh	T	P	{'initial': 1, 'weights': [['47', -131.746], ['42', -67.388]], 'final': 1} 
+command--1151669316	Call AC	Call AC	T	P	{'initial': 1, 'weights': [['47', -74.4778], ['39', -82.9033]], 'final': 1} 
+command-247162815	Voice Call AC	Voice Call AC	T	N	{'initial': 1, 'weights': [['37', -69.5601], ['47', -17.1194], ['39', -68.7417]], 'final': 3} 
+command--1151503335	Call Kamlesh	Call Kamlesh	T	P	{'initial': 1, 'weights': [['47', -61.6834], ['65', -158.439]], 'final': 1} 
+command-238317980	Call Gaurav	Call Gaurav	T	P	{'initial': 2, 'weights': [['47', -190.139], ['21', -52.2359]], 'final': 5} 
+command--1151641894	Call Alpna	Call Alpna	T	P	{'initial': 2, 'weights': [['47', -63.6531], ['26', -99.0014]], 'final': 8} 
+command--861993613	Voice Call Anil	Voice Call Anil	T	P	{'initial': 1, 'weights': [['37', -63.2873], ['47', -35.9359], ['55', -50.8114]], 'final': 1} 
+command-247114002	Voice Call Subodh	Voice Call Subodh	T	P	{'initial': 2, 'weights': [['37', -73.4222], ['47', -30.0687], ['42', -77.4879]], 'final': 1} 
+command--1151578822	Call Avinash	Call Avinash	T	P	{'initial': 1, 'weights': [['47', -59.2217], ['51', -77.1831]], 'final': 2} 
+command--1151387972	Call Prachi	Call Prachi	T	P	{'initial': 1, 'weights': [['47', -58.1421], ['29', -47.3859]], 'final': 1} 
+command--803037624	Abhimanyu	Call Dinesh	F	P	{'initial': 3, 'weights': [['47', -75.0261], ['7', -75.628]], 'final': 8} 
+command-247956943	Video Call Anil	Video Call Rajesh	F	P	{'initial': 1, 'weights': [['35', -131.992], ['47', -97.7833], ['54', -80.2092]], 'final': 9} 
+command--1149583818	Voice Call Prashant	Voice Call Kiran	F	P	{'initial': 1, 'weights': [['37', -97.9714], ['47', -61.8231], ['45', -21.1421]], 'final': 9} 
+command--1151372711	Call Rajesh	Call Rajesh	T	P	{'initial': 1, 'weights': [['47', -66.7521], ['54', -50.4863]], 'final': 1} 
+command--1151510365	Call Iqbal	Call Iqbal	T	P	{'initial': 1, 'weights': [['47', -48.2082], ['33', -86.7688]], 'final': 1} 
+command--1142096241	Alpna	Search Menu	F	P	{'initial': 2, 'weights': [['41', -48.2101], ['10', -82.4369]], 'final': 11} 
+command--1151562590	Call Chirodeep	Call Chirodeep	T	P	{'initial': 1, 'weights': [['47', -45.9114], ['36', -81.1792]], 'final': 1} 
+command--1151624662	Call Anupam	Video Call Aritra	F	P	{'initial': 2, 'weights': [['35', -37.3955], ['47', -27.5276], ['46', -104.053]], 'final': 1} 
+command-247949212	Voice Call Minnie	Voice Call Minnie	T	P	{'initial': 1, 'weights': [['37', -80.8327], ['47', -73.7263], ['57', -72.183]], 'final': 1} 
+command--1149660834	Voice Call Gaurav	Voice Call Harsh	F	P	{'initial': 1, 'weights': [['37', -73.5129], ['47', -37.873], ['34', -70.2493]], 'final': 5} 
+command-247154307	Video Call AC	Video Call AC	T	P	{'initial': 1, 'weights': [['35', -61.3704], ['47', -24.9523], ['39', -110.884]], 'final': 3} 
+command--388317482	Video Call Anil	Video Call Anil	T	P	{'initial': 1, 'weights': [['35', -72.9218], ['47', -36.423], ['55', -85.1884]], 'final': 1} 
+command--1151442373	Call Minnie	Call Minnie	T	P	{'initial': 2, 'weights': [['47', -50.7574], ['57', -42.663]], 'final': 7} 
+command--1151325134	Call Shiva	Call Shiva	T	P	{'initial': 2, 'weights': [['47', -26.131], ['24', -56.7096]], 'final': 2} 
+command--803385679	Video Call Dinesh	Video Call Dinesh	T	N	{'initial': 1, 'weights': [['35', -90.1764], ['47', -19.5865], ['7', -75.0486]], 'final': 1} 
+command--1151392804	Call Parikshit	Call Parikshit	T	P	{'initial': 1, 'weights': [['47', -86.2875], ['5', -43.1364]], 'final': 1} 
+command--1149539111	Voice Call Prachi	Voice Call Prachi	T	P	{'initial': 1, 'weights': [['37', -124.429], ['47', -153.223], ['29', -88.2693]], 'final': 9} 
+command--1151381672	Call Prashant	Call Prashant	T	P	{'initial': 1, 'weights': [['47', -52.68], ['38', -43.864]], 'final': 2} 
+command--617915175	Call Dinesh	Call Dinesh	T	P	{'initial': 1, 'weights': [['47', -82.7523], ['7', -90.7261]], 'final': 1} 
+command--617866721	Video Call Harsh	Video Call Harsh	T	P	{'initial': 1, 'weights': [['35', -72.52], ['47', -36.1489], ['34', -95.2353]], 'final': 3} 
+command--1151285130	Cancel	Cancel	T	P	{'initial': 1, 'weights': [['14', -89.8289]], 'final': 1} 
+command--1151318875	Call Subodh	Call Subodh	T	N	{'initial': 3, 'weights': [['47', -50.6289], ['42', -7.67057]], 'final': 10} 
+command--1080835806	Video Call Prashant	Video Call Prashant	T	P	{'initial': 1, 'weights': [['35', -107.788], ['47', -21.8697], ['38', -87.9305]], 'final': 3} 
+command--862091020	Voice Call Renu	Voice Call Renu	T	P	{'initial': 1, 'weights': [['37', -110.529], ['47', -27.0843], ['4', -71.8554]], 'final': 1} 
+command--1151404906	Call Pankaj	Call Pankaj	T	P	{'initial': 1, 'weights': [['47', -48.499], ['60', -69.5357]], 'final': 1} 
+command-247190075	Voice Call Subodh	Voice Call Subodh	T	P	{'initial': 1, 'weights': [['37', -72.956], ['47', -28.5998], ['42', -125.699]], 'final': 2} 
+command--1141989086	Call Rajendra	Call Rajendra	T	P	{'initial': 2, 'weights': [['47', -89.2989], ['9', -83.0054]], 'final': 3} 
+command--1151430867	Call Mukundan	Call Mukundan	T	P	{'initial': 1, 'weights': [['47', -34.08], ['22', -74.6371]], 'final': 1} 
+command--617896656	Video Call Dinesh	Video Call Dinesh	T	N	{'initial': 1, 'weights': [['35', -85.6116], ['47', -16.9106], ['7', -103.887]], 'final': 4} 
+command--1151494799	Call Keshav	Call Keshav	T	P	{'initial': 1, 'weights': [['47', -42.0749], ['49', -77.8316]], 'final': 1} 
+command--910851714	sil	Cancel	F	P	{'initial': 2, 'weights': [['14', -104.533]], 'final': 10} 
+command-247199113	Video Call Subodh	Video Call Subodh	T	P	{'initial': 1, 'weights': [['35', -86.2476], ['47', -28.1274], ['42', -74.8096]], 'final': 3} 
+command--1148432662	Video Call Biren	Video Call Biren	T	N	{'initial': 1, 'weights': [['35', -95.0015], ['47', -19.2298], ['12', -99.6925]], 'final': 1} 
+command--1149723252	sil	Video Call Nanak	F	P	{'initial': 7, 'weights': [['35', -41.1779], ['47', -45.0361], ['58', -60.4121]], 'final': 28} 
+command--1142064796	Call Rajendra	Video Call Rajendra	F	P	{'initial': 2, 'weights': [['35', -82.7023], ['47', -37.6999], ['9', -79.7455]], 'final': 2} 
+command--1148400510	Voice Call Biren	Voice Call Biren	T	P	{'initial': 1, 'weights': [['37', -58.4681], ['47', -24.1745], ['12', -70.8222]], 'final': 1} 
+command--1151265187	Voice	Call AC	F	P	{'initial': 1, 'weights': [['47', -33.9045], ['39', -46.478]], 'final': 1} 
+command--1151529814	Call Harsh	Call Harsh	T	P	{'initial': 1, 'weights': [['47', -75.1218], ['34', -52.6622]], 'final': 2} 
+command--388381021	noise	Call Meenu	F	P	{'initial': 3, 'weights': [['47', -94.2095], ['40', -58.9147]], 'final': 15} 
+command-247141554	Voice Call AC	Voice Call AC	T	P	{'initial': 2, 'weights': [['37', -82.2382], ['47', -21.2737], ['39', -73.0355]], 'final': 2} 
+command--1151659011	Call Abhimanyu	Call Abhimanyu	T	P	{'initial': 1, 'weights': [['47', -59.6071], ['16', -126.411]], 'final': 1} 
+command--1151330082	Call Seema	Call Seema	T	P	{'initial': 2, 'weights': [['47', -61.4062], ['32', -46.7536]], 'final': 2} 
+command-247942386	Voice Call Anil	Voice Call Anil	T	P	{'initial': 1, 'weights': [['37', -43.3163], ['47', -32.0381], ['55', -40.0335]], 'final': 1} 
+command--1148447182	Video Call Biren	Video Call EDR	T	N	{'initial': 1, 'weights': [['35', -74.4543], ['47', -15.2789], ['63', -156.162]], 'final': 9} 
+command-238255540	Call Abhimanyu	Open Menu	F	P	{'initial': 2, 'weights': [['62', -88.0899], ['10', -102.559]], 'final': 3} 
+command--1151488359	Call Kuljeet	Call Kuljeet	T	P	{'initial': 1, 'weights': [['47', -35.7778], ['30', -76.7664]], 'final': 1} 
+command--1141970509	Call Rajendra	Call Rajendra	T	P	{'initial': 1, 'weights': [['47', -92.3796], ['9', -93.3896]], 'final': 1} 
+command--1149700834	sil	Video Call Anupam	F	N	{'initial': 2, 'weights': [['35', -52.2509], ['47', -102.977], ['15', -14.5754]], 'final': 10} 
+command--1142071908	Call Mahendra	Redial	F	P	{'initial': 2, 'weights': [['48', -135.911]], 'final': 5} 
+command--1151607574	Call Aritra	Call Aritra	T	P	{'initial': 1, 'weights': [['47', -47.0825], ['46', -83.0435]], 'final': 1} 
+command--1142077321	Call Mahendra	Call Mahendra	T	P	{'initial': 1, 'weights': [['47', -54.8745], ['59', -58.148]], 'final': 4} 
+command--1151611530	Call Anupam	Call Anupam	T	P	{'initial': 1, 'weights': [['47', -75.2886], ['15', -53.7588]], 'final': 1} 
+command--862027831	Voice Call Anil	Voice Call Anil	T	P	{'initial': 1, 'weights': [['37', -88.9477], ['47', -24.0307], ['55', -76.1262]], 'final': 5} 
+command-247936320	Call Anil	Call Anil	T	P	{'initial': 2, 'weights': [['47', -76.1203], ['55', -71.2014]], 'final': 6} 
+command--1080745629	Video Call Naresh	Video Call Harish	F	P	{'initial': 1, 'weights': [['35', -73.0456], ['47', -26.7589], ['44', -71.9174]], 'final': 5} 
+command--1151345548	Call Renu	Call Renu	T	P	{'initial': 1, 'weights': [['47', -31.8534], ['4', -35.9268]], 'final': 1} 
+command--1142107632	Cancel	Call Matthew	F	P	{'initial': 2, 'weights': [['47', -48.9601], ['13', -62.3376]], 'final': 5} 
+command--294065147	Voice Call Anil	Voice Call Naresh	F	P	{'initial': 1, 'weights': [['37', -93.2629], ['47', -24.8601], ['52', -92.7333]], 'final': 8} 
+command-247208095	Video Call Subodh	Video Call Subodh	T	P	{'initial': 3, 'weights': [['35', -82.1871], ['47', -32.3528], ['42', -52.6986]], 'final': 7} 
+command-247069247	Call Subodh	Call Subodh	T	P	{'initial': 2, 'weights': [['47', -86.9501], ['42', -78.726]], 'final': 1} 
+command--825765604	Voice Call Shiva	Voice Call Shiva	T	P	{'initial': 1, 'weights': [['37', -84.5496], ['47', -30.0552], ['24', -95.2976]], 'final': 3} 
+command--1151478110	Call Mahendra	Call Mahendra	T	P	{'initial': 1, 'weights': [['47', -22.6457], ['59', -56.7503]], 'final': 2} 
+command--388347239	sil	Video Call Lata	F	N	{'initial': 2, 'weights': [['35', -46.3374], ['47', -86.2113], ['8', -11.6223]], 'final': 12} 
+command--1151214010	Call Gaurav	Call Gaurav	T	P	{'initial': 1, 'weights': [['47', -56.5416], ['21', -51.4277]], 'final': 7} 
+command--1151303848	Call Sushma	Call Sushma	T	P	{'initial': 1, 'weights': [['47', -41.9009], ['53', -35.6442]], 'final': 1} 
+command--796270225	Call Call Call	Call Kiran	F	P	{'initial': 1, 'weights': [['47', -124.38], ['45', -89.6057]], 'final': 3} 
+command--1149675194	Voice Call Abhimanyu	Voice Call Abhimanyu	T	P	{'initial': 1, 'weights': [['37', -90.4955], ['47', -27.5117], ['16', -119.785]], 'final': 1} 
+command--1149571449	Video Call Prashant	Video Call Prashant	T	P	{'initial': 1, 'weights': [['35', -63.9189], ['47', -31.4264], ['38', -69.4523]], 'final': 7} 
+command--388337291	sil	Redial	F	P	{'initial': 3, 'weights': [['48', -190.499]], 'final': 4} 
+command--1049164008	Video Call Harsh	Video Call Harsh	T	P	{'initial': 1, 'weights': [['35', -85.7468], ['47', -34.2145], ['34', -88.5456]], 'final': 2} 
+command--1150432409	Call Kiran	Call Kiran	T	P	{'initial': 3, 'weights': [['47', -74.7243], ['45', -75.8994]], 'final': 1} 
+command--617860533	Video Call Harish	Video Call Harish	T	P	{'initial': 1, 'weights': [['35', -81.7659], ['47', -30.4769], ['44', -57.475]], 'final': 5} 
+command--617850607	Voice Call Harish	Voice Call Naresh	F	P	{'initial': 3, 'weights': [['37', -55.8703], ['47', -57.8247], ['52', -93.8865]], 'final': 7} 
+command--1151589728	Call Ashish	Call Ashish	T	P	{'initial': 1, 'weights': [['47', -36.7554], ['56', -63.9378]], 'final': 1} 
+command--1080796873	Voice Call Minnie	Voice Call Minnie	T	P	{'initial': 1, 'weights': [['37', -73.3023], ['47', -41.2919], ['57', -97.0351]], 'final': 3} 
+command--1151298411	Call Varsha	Call Varsha	T	P	{'initial': 1, 'weights': [['47', -54.4951], ['50', -39.6218]], 'final': 2} 
+command--862004589	Call Anil	Call Anil	T	P	{'initial': 1, 'weights': [['47', -102.796], ['55', -54.922]], 'final': 4} 
+command--1151650537	Call Ajay	Call Ajay	T	P	{'initial': 1, 'weights': [['47', -51.6297], ['28', -92.4773]], 'final': 1} 
+command--1151356355	Call Ravindra	Call Ravindra	T	P	{'initial': 1, 'weights': [['47', -70.516], ['17', -26.2228]], 'final': 4} 
+command--1148388778	Video Call Gaurav	Video Call EDR	F	P	{'initial': 1, 'weights': [['35', -101.09], ['47', -47.7266], ['63', -26.8336]], 'final': 11} 
+command-247100094	Voice Call Subodh	Video Call Subodh	F	P	{'initial': 3, 'weights': [['35', -71.3276], ['47', -31.9179], ['42', -62.0056]], 'final': 2} 
+command-247125120	Voice Call Subodh	Call Ashish	F	P	{'initial': 3, 'weights': [['47', -94.25], ['56', -130.401]], 'final': 32} 
+command--1149559686	Video Call EDR	Video Call EDR	T	N	{'initial': 1, 'weights': [['35', -87.4489], ['47', -72.2323], ['63', -18.852]], 'final': 4} 
+command--803409673	Video Call Prashant	Video Call Prashant	T	P	{'initial': 1, 'weights': [['35', -75.7379], ['47', -21.8621], ['38', -72.9135]], 'final': 3} 
+command--1151217360	Call EDR	Call EDR	T	P	{'initial': 1, 'weights': [['47', -43.8889], ['63', -49.915]], 'final': 1} 
+command--989999955	Video Call Rajesh	Call Rajesh	F	P	{'initial': 3, 'weights': [['47', -161.536], ['54', -95.0995]], 'final': 4} 
+command--388326929	Video Call Amit	Video Call Amit	T	N	{'initial': 1, 'weights': [['35', -77.5389], ['47', -19.8737], ['61', -67.1977]], 'final': 1} 
+command--862018267	Voice Call Anil	Voice Call Anil	T	P	{'initial': 1, 'weights': [['37', -101.697], ['47', -40.7871], ['55', -83.3095]], 'final': 1} 
+command--388363611	Voice Call Anil	Voice Call Anil	T	P	{'initial': 4, 'weights': [['37', -63.2278], ['47', -28.1754], ['55', -47.1615]], 'final': 7} 
+command--1149550368	Voice Call	Voice Call Pankaj	F	P	{'initial': 1, 'weights': [['37', -78.7765], ['47', -25.5564], ['60', -53.5371]], 'final': 2} 
+command--1142149198	Video Call Keshav	Video Call Keshav	T	P	{'initial': 1, 'weights': [['35', -100.777], ['47', -24.4299], ['49', -105.267]], 'final': 1} 
+command--803025795	Video Call Renu	Video Call Renu	T	P	{'initial': 1, 'weights': [['35', -101.866], ['47', -22.7374], ['4', -66.5027]], 'final': 4} 
+command--388368595	noise	Call Anil	F	P	{'initial': 2, 'weights': [['47', -78.997], ['55', -53.2254]], 'final': 5} 
+command--803014336	Video Call Meenu	Video Call Meenu	T	P	{'initial': 1, 'weights': [['35', -92.6855], ['47', -23.3995], ['40', -73.4387]], 'final': 1} 
+command--825751678	Voice Call Meenu	Voice Call Meenu	T	N	{'initial': 2, 'weights': [['37', -46.0188], ['47', -16.6957], ['40', -49.6696]], 'final': 6} 
+command--1151551860	Call Dinesh	Call Dinesh	T	P	{'initial': 1, 'weights': [['47', -60.268], ['7', -102.588]], 'final': 1} 
+command--1151367666	Call Rashmi	Call Rashmi	T	P	{'initial': 1, 'weights': [['47', -214.469], ['64', -47.0518]], 'final': 1} 
+command--1074031865	Video Call Naresh	Video Call Naresh	T	P	{'initial': 1, 'weights': [['35', -124.594], ['47', -27.7178], ['52', -92.1224]], 'final': 2} 
+command--1080778797	Video Call Rajesh	Video Call Rajesh	T	P	{'initial': 1, 'weights': [['35', -67.204], ['47', -49.3832], ['54', -88.1836]], 'final': 1} 
+command--1151633098	Call Amit	Call Amit	T	P	{'initial': 1, 'weights': [['47', -72.4804], ['61', -74.5443]], 'final': 4} 
+command--1080711057	Call Kiran	Call Kiran	T	P	{'initial': 1, 'weights': [['47', -94.2899], ['45', -50.5605]], 'final': 5} 
+command--1149687646	sil	Call Varsha	F	P	{'initial': 2, 'weights': [['47', -44.6011], ['50', -145.079]], 'final': 5} 
+command--1151465251	Call Meenu	Call Minnie	F	P	{'initial': 1, 'weights': [['47', -44.0894], ['57', -34.463]], 'final': 2} 
+command--1149631924	Voice Call Lata	Voice Call Lata	T	N	{'initial': 1, 'weights': [['37', -66.5644], ['47', -18.5228], ['8', -85.4899]], 'final': 1} 
+command--617880715	Video Call Rajesh	Video Call Rajesh	T	P	{'initial': 1, 'weights': [['35', -66.1962], ['47', -34.0918], ['54', -87.2156]], 'final': 1} 
+command--1142113320	Redial	Redial	T	P	{'initial': 1, 'weights': [['48', -147.534]], 'final': 1} 
+command--1151600999	Call Ashish	Call Ashish	T	P	{'initial': 1, 'weights': [['47', -79.7879], ['56', -91.9401]], 'final': 1} 
+command--825745308	Voice Call Renu	Voice Call Renu	T	P	{'initial': 1, 'weights': [['37', -60.2192], ['47', -27.1057], ['4', -51.8427]], 'final': 9} 
+command--862055767	Call Renu	Call Renu	T	P	{'initial': 1, 'weights': [['47', -97.834], ['4', -37.322]], 'final': 8} 
+command--861987879	Voice Call Naresh	Voice Call Naresh	T	P	{'initial': 1, 'weights': [['37', -59.6409], ['47', -36.7065], ['52', -55.913]], 'final': 7} 
+command--862132236	Video Call Sumit	Video Call Sumit	T	P	{'initial': 4, 'weights': [['35', -90.6841], ['47', -23.8906], ['25', -84.9221]], 'final': 12} 
+command--617908385	Voice Call Dinesh	Voice Call Dinesh	T	N	{'initial': 1, 'weights': [['37', -90.697], ['47', -19.1976], ['7', -90.986]], 'final': 5} 
+command-247055728	Call Subodh	Redial	F	P	{'initial': 6, 'weights': [['48', -165.559]], 'final': 22} 
+command--862111155	Video Call Sumit	Video Call Sumit	T	P	{'initial': 3, 'weights': [['35', -87.0039], ['47', -25.1341], ['25', -51.7327]], 'final': 7} 
+command--803417197	Call Abhimanyu	Call Abhimanyu	T	P	{'initial': 1, 'weights': [['47', -82.0066], ['16', -110.655]], 'final': 1} 
+command--1151308838	Call Sunita	Call Sunita	T	P	{'initial': 1, 'weights': [['47', -50.5654], ['43', -36.2913]], 'final': 1} 
+command--1151472564	Call Matthew	Call Matthew	T	P	{'initial': 1, 'weights': [['47', -49.4849], ['13', -50.917]], 'final': 1} 
+command-247086474	Voice Call Subodh	Call Harish	F	P	{'initial': 7, 'weights': [['47', -80.0279], ['44', -98.1281]], 'final': 26} 
+command--1151422256	Call Nanak	Call Nanak	T	P	{'initial': 1, 'weights': [['47', -69.9312], ['58', -50.0696]], 'final': 1} 
+command--1149488292	Call Abhimanyu	Call Abhimanyu	T	P	{'initial': 1, 'weights': [['47', -75.9013], ['16', -191.546]], 'final': 1} 
+command-238399897	Redial	Redial	T	P	{'initial': 1, 'weights': [['48', -200.236]], 'final': 1} 
+command--1080846711	Voice Call Prashant	Voice Call Prashant	T	N	{'initial': 2, 'weights': [['37', -59.9868], ['47', -18.7381], ['38', -59.2333]], 'final': 5} 
+command--617873026	Voice Call Harsh	Voice Call Harsh	T	P	{'initial': 1, 'weights': [['37', -49.3499], ['47', -45.9372], ['34', -85.1631]], 'final': 2} 
+command--617889125	Voice Call Rajesh	Voice Call Rajesh	T	P	{'initial': 1, 'weights': [['37', -64.1879], ['47', -41.8443], ['54', -98.3273]], 'final': 2} 
+command--862041407	Video Call Renu	Video Call Renu	T	P	{'initial': 2, 'weights': [['35', -93.4249], ['47', -42.199], ['4', -59.9928]], 'final': 2} 
+command--1151414381	Call Naresh	Call Naresh	T	P	{'initial': 1, 'weights': [['47', -55.8864], ['52', -45.0329]], 'final': 1} 
+command--1080721882	Call Call Kiran	Video Call Kiran	F	P	{'initial': 1, 'weights': [['35', -77.2788], ['47', -41.4477], ['45', -47.9679]], 'final': 1} 
+command--1151314242	Call Sumit	Call Sumit	T	P	{'initial': 1, 'weights': [['47', -50.4562], ['25', -26.8335]], 'final': 1} 
+command--1080755621	Video Call Rajendra	Video Call Rajendra	T	P	{'initial': 1, 'weights': [['35', -85.4333], ['47', -56.3436], ['9', -52.2506]], 'final': 4} 
+command--1080805325	Voice Call Abhimanyu	Voice Call Abhimanyu	T	P	{'initial': 1, 'weights': [['37', -93.8659], ['47', -25.9336], ['16', -112.467]], 'final': 1} 
+command--786738664	Video Call AC	Video Call AC	T	N	{'initial': 1, 'weights': [['35', -69.4015], ['47', -15.7922], ['39', -103.548]], 'final': 1} 
+command--1142121568	Redial	Redial	T	P	{'initial': 1, 'weights': [['48', -148.559]], 'final': 1} 
+command--862101914	Voice Call Renu	Voice Call Anil	F	P	{'initial': 1, 'weights': [['37', -110.427], ['47', -26.8975], ['55', -63.1577]], 'final': 3} 
+command--786719669	Video Call Abhimanyu	Video Call Matthew	F	P	{'initial': 1, 'weights': [['35', -113.765], ['47', -50.8216], ['13', -60.8697]], 'final': 2} 
+command--1151289206	Redial	Redial	T	P	{'initial': 1, 'weights': [['48', -84.5416]], 'final': 1} 
+command--1080786222	Video Call Rajesh	Video Call Rajesh	T	P	{'initial': 1, 'weights': [['35', -77.8329], ['47', -42.1313], ['54', -79.1836]], 'final': 3} 
+command--1074051755	Voice Call Shiva	Voice Call Shiva	T	N	{'initial': 1, 'weights': [['37', -75.2855], ['47', -16.8121], ['24', -93.0612]], 'final': 1} 
+command--1080731487	Voice Call Gaurav	Voice Call Harsh	T	N	{'initial': 3, 'weights': [['37', -122.291], ['47', -75.2443], ['34', -11.2607]], 'final': 13} 
+command--1150555019	Call Housekeeping	Call Housekeeping	T	P	{'initial': 1, 'weights': [['47', -69.2435], ['31', -101.872]], 'final': 1} 
+command--862049527	Voice Call Renu	Voice Call Renu	T	P	{'initial': 1, 'weights': [['37', -89.4061], ['47', -27.874], ['4', -59.1434]], 'final': 2} 
+command--861978760	Voice Call Parikshit	Voice Call Parikshit	T	N	{'initial': 1, 'weights': [['37', -43.5016], ['47', -14.8936], ['5', -57.1709]], 'final': 3} 
+command--825783219	Call Abhimanyu	Call Abhimanyu	T	P	{'initial': 1, 'weights': [['47', -89.2021], ['16', -87.4229]], 'final': 1} 
+command--1151377185	Call Rajendra	Call Rajendra	T	P	{'initial': 1, 'weights': [['47', -68.4309], ['9', -37.6163]], 'final': 1} 
+command--1151518486	Call Housekeeping	Call Housekeeping	T	P	{'initial': 1, 'weights': [['47', -63.3008], ['31', -90.2129]], 'final': 1} 
+command--1060567999	Voice Call EDR	Voice Call EDR	T	P	{'initial': 1, 'weights': [['37', -107.021], ['47', -32.5421], ['63', -110.189]], 'final': 1} 
+command-260041356	Call Abhimanyu	Call Abhimanyu	T	P	{'initial': 1, 'weights': [['47', -86.6535], ['16', -81.6011]], 'final': 1} 
+command--1148407032	Video Call Biren	Video Call Biren	T	P	{'initial': 1, 'weights': [['35', -52.7684], ['47', -20.2806], ['12', -99.9864]], 'final': 2} 
+command--1151408846	Call Neeti	Call Neeti	T	P	{'initial': 1, 'weights': [['47', -51.7308], ['18', -40.3632]], 'final': 1} 
+command--1141977019	Call Rajendra	Call Rajesh	F	P	{'initial': 1, 'weights': [['47', -80.6021], ['54', -70.4297]], 'final': 4} 
+command--1151334217	Call Sarika	Call Sarika	T	P	{'initial': 1, 'weights': [['47', -54.7796], ['6', -26.0118]], 'final': 1} 
+command--388355284	Voice Call Amit	Call Kamlesh	F	P	{'initial': 3, 'weights': [['47', -31.213], ['65', -78.4626]], 'final': 5} 
+command--989988196	Video Call Rajesh	Video Call Lata	F	P	{'initial': 3, 'weights': [['35', -81.1611], ['47', -75.6773], ['8', -28.1448]], 'final': 11} 
+command--1151482609	Call Lata	Call Lata	T	P	{'initial': 1, 'weights': [['47', -30.0247], ['8', -66.5339]], 'final': 1} 
+command--1142083739	Call Mahendra	Call Amit	F	P	{'initial': 1, 'weights': [['47', -62.3231], ['61', -51.7447]], 'final': 10} 
+command--862066959	Call Meenu	Call Meenu	T	P	{'initial': 2, 'weights': [['47', -114.24], ['40', -99.4331]], 'final': 2} 
+command-247965643	Video Call Anil	Video Call Anil	T	P	{'initial': 1, 'weights': [['35', -55.1155], ['47', -72.8388], ['55', -44.6045]], 'final': 1} 
+command--294056280	Video Call Anil	Video Call Anil	T	P	{'initial': 1, 'weights': [['35', -53.0569], ['47', -27.4563], ['55', -57.0542]], 'final': 1} 
+command--1080827479	Video Call Prashant	Video Call Prashant	T	P	{'initial': 1, 'weights': [['35', -72.3386], ['47', -27.0862], ['38', -99.6387]], 'final': 1} 
+command--1049149518	Voice Call Harish	Voice Call Harish	T	P	{'initial': 2, 'weights': [['37', -54.3868], ['47', -34.014], ['44', -84.5223]], 'final': 1} 
+command--786752604	Voice Call Kuljeet	Voice Call Kuljeet	T	P	{'initial': 1, 'weights': [['37', -68.953], ['47', -22.8914], ['30', -86.9216]], 'final': 1} 
+command--1151571552	Call Biren	Call Biren	T	P	{'initial': 3, 'weights': [['47', -54.4214], ['12', -73.7025]], 'final': 1} 
+command--388306638	Voice Call Anil	Voice Call Anil	T	P	{'initial': 1, 'weights': [['37', -39.3785], ['47', -35.9541], ['55', -49.1302]], 'final': 1} 
+command-238384871	Call Abhimanyu	Call Abhimanyu	T	P	{'initial': 1, 'weights': [['47', -114.646], ['16', -114.632]], 'final': 1} 
+command--1149476010	sil	Cancel	F	P	{'initial': 6, 'weights': [['14', -136.54]], 'final': 14} 
